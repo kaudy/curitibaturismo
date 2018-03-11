@@ -6,3 +6,88 @@ Author: Willian Kaudy
 Author URI: fb.com/willian.kaudy
 Version 1.0.0
 */
+
+
+html, body
+{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-size: 15px;
+}
+
+/*Div header*/
+.header
+{
+    height: 670px;
+    background: url(assets/images/bg-header.png) center top no-repeat;
+}
+.header h1
+{
+    margin: 0;
+}
+.header h1 a
+{
+    color: black;
+    text-decoration: none;
+}
+
+/*Div wrap*/
+.wrap
+{
+    margin: 0 auto;       
+}
+
+/**/
+.logo
+{
+    margin: 0 auto;
+    height: 105px;
+    text-align: center;
+    background: url(assets/images/logo-header.png) center top no-repeat;
+
+}
+
+
+/* Div menu*/
+.menu
+{
+    padding: 345px;
+    height: 130px; 
+    align-content: center;
+    align-items: center;
+    align-self: center;   
+}
+.menu-center
+{    
+    height: 130px; 
+    margin: 0px;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+
+ul
+{
+    margin: 0 auto;
+    list-style-type: none;    
+}
+
+.menu-item
+{
+    width: 120px;
+    height: 130px;    
+    background-color: #FAD300;
+    text-align: center;
+    margin: 22px;
+}
+.menu-item:hover
+{
+    width: 120px;
+    height: 130px; 
+    background-color: white;
+    text-align: center;
+    margin: 22px;
+}
+
