@@ -1,0 +1,4 @@
+Duvidas
+
+1-div com float centralizado
+2-ajusta automaticamente a possição top com base no tamanho da tela

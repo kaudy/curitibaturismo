@@ -69,78 +69,53 @@
                     </div>
                 </nav>            
             </div>
-            <div class="wrap">            
-                <div class="menu"> 
-                    <div class="menubox"> 
-                        <a href="#">
-                            <div class="menubox-item">                        
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/menu-icon-pontos-turisticos.png" alt="Pontos Turísticos">
-                            </div>
-                        </a>
-                        <a href="##">
-                            <div class="menubox-item">                        
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/menu-icon-roteiros-prontos.png" alt="Pontos Turísticos">
-                            </div>
-                        </a>                
-                        <a href="###">
-                            <div class="menubox-item">                        
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/menu-icon-arredores-curitiba.png" alt="Pontos Turísticos">
-                            </div>
-                        </a>                
-                        <a href="####">
-                            <div class="menubox-item">                        
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/menu-icon-restaurantes-cafes.png" alt="Pontos Turísticos">
-                            </div>
-                        </a> 
-                        <a href="#####">
-                            <div class="menubox-item">                        
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/menu-icon-bares-baladas.png" alt="Pontos Turísticos">
-                            </div>
-                        </a> 
-                        <a href="######">
-                            <div class="menubox-item">                        
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/menu-icon-hospedagem.png" alt="Pontos Turísticos">
-                            </div>
-                        </a> 
-                        <a href="#######">
-                            <div class="menubox-item">                        
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/menu-icon-noticias-eventos.png" alt="Pontos Turísticos">
-                            </div>
-                        </a> 
+            <div class="wrap"> 
+                <a href="#">
+                    <div class="menubox-item">                        
+                        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/menu-icon-pontos-turisticos.png" alt="Pontos Turísticos">
                     </div>
-                </div>    
+                </a>
+                <a href="##">
+                    <div class="menubox-item">                        
+                        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/menu-icon-roteiros-prontos.png" alt="Pontos Turísticos">
+                    </div>
+                </a>                
+                <a href="###">
+                    <div class="menubox-item">                        
+                        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/menu-icon-arredores-curitiba.png" alt="Pontos Turísticos">
+                    </div>
+                </a>                
+                <a href="####">
+                    <div class="menubox-item">                        
+                        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/menu-icon-restaurantes-cafes.png" alt="Pontos Turísticos">
+                    </div>
+                </a> 
+                <a href="#####">
+                    <div class="menubox-item">                        
+                        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/menu-icon-bares-baladas.png" alt="Pontos Turísticos">
+                    </div>
+                </a> 
+                <a href="######">
+                    <div class="menubox-item">                        
+                        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/menu-icon-hospedagem.png" alt="Pontos Turísticos">
+                    </div>
+                </a> 
+                <a href="#######">
+                    <div class="menubox-item">                        
+                        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/menu-icon-noticias-eventos.png" alt="Pontos Turísticos">
+                    </div>
+                </a>                     
             </div>
-            <div class="header-gradient">                
-            </div>                
+            <!--
+            <div class="wrap-gradient">
+                <div class="header-gradient">                
+                </div>
+            </div>
+            -->
+                            
         </div> 
     </div>
-    <div class="roteiros-container">
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    </div>
-    <div class="ponto-turisticos-container">
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    </div>
-    <div class="onde-comer-container">
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    </div>
+    
     <script>
         window.onscroll = function() {myFunction()};
 
