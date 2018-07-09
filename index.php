@@ -53,14 +53,107 @@
     </div>
 </div>
 <div class="ponto-turisticos-container">
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <div class="wrap-ponto-turisticos">
+        <div class="cabecalho-ponto-turisticos">    
+            <div class="cabecalho-ponto-turisticos-texto">
+                <div class="cabecalho-ponto-turisticos-titulo">
+                    <h2>
+                        PONTOS TURÍSTICOS DE CURITIBA
+                    </h2>
+                </div>
+                <div class="cabecalho-ponto-turisticos-subtitulo">
+                    <h3>
+                        Criamos um roteiro especial dentro da sua necessidade. Confira algumas sugestões abaixo:
+                    </h3>
+                </div>
+            </div>
+            <div class="cabecalho-ponto-turisticos-mais">
+                <button class="btt">
+                    MAIS PONTOS
+                </button>
+            </div>
+        </div>
+        <div class="banner-ponto-turisticos-up">
+            <a href="#">
+                <div class="banners-ponto-turisticos-left">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/banner-p-turistico-1.png" alt="Banner 1">
+                    <span class="lupa">
+                        PARQUES E BOSQUES                       
+                    </span>
+                </div>                
+            </a>
+            <a href="##">
+                <div class="banners-ponto-turisticos-meio">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/banner-p-turistico-1.png" alt="Banner 1">
+                    <span class="lupa">
+                        PRAÇAS
+                    </span>
+                </div>                
+            </a>
+            <a href="###">
+                <div class="banners-ponto-turisticos-meio">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/banner-p-turistico-1.png" alt="Banner 1">
+                    <span class="lupa">
+                        TEMPLOS                        
+                    </span>
+                </div>                
+            </a>
+            <a href="####">
+                <div class="banners-ponto-turisticos-right">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/banner-p-turistico-1.png" alt="Banner 1">
+                    <span class="lupa">
+                        MUSEUS 
+                    </span>
+                </div>                
+            </a>   
+        </div> 
+        <div class="banner-ponto-turisticos-down">
+            <a href="#">
+                <div class="banners-ponto-turisticos-left">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/banner-p-turistico-1.png" alt="Banner 1">
+                    <span class="lupa">
+                        PANORÂMICOS                       
+                    </span>
+                </div>                
+            </a>
+            <a href="#">
+                <div class="banners-ponto-turisticos-meio">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/banner-p-turistico-1.png" alt="Banner 1">
+                    <span class="lupa">
+                        SETOR HISTÓRICO
+                    </span>
+                </div>                
+            </a>
+            <a href="#">
+                <div class="banners-ponto-turisticos-meio">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/banner-p-turistico-1.png" alt="Banner 1">
+                    <span class="lupa">
+                        DIVERSOS                        
+                    </span>
+                </div>                
+            </a>
+            <a href="#">
+                <div class="banners-ponto-turisticos-right">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/banner-p-turistico-1.png" alt="Banner 1">
+                    <span class="lupa">
+                        ARREDORES DE CURITIBA 
+                    </span>
+                </div>                
+            </a>   
+        </div>   
+    </div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
 <div class="onde-comer-container">
     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

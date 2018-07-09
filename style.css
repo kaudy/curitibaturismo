@@ -272,7 +272,6 @@ html, body
     height: 40px;
     width: 130px;
 }
-
 .banner-roteiros
 {
     height: 200px;    
@@ -281,7 +280,6 @@ html, body
     overflow: hidden;
     padding: 0;
 }
-
 .banners
 {
     height: 200px;
@@ -290,7 +288,6 @@ html, body
     display: inline-block;
     position: relative;
 }
-
 .bn1
 {
     float: left;
@@ -299,7 +296,6 @@ html, body
 {
     float: right;
 }
-
 .banner-roteiros a img
 {
     transition: bottom .4s;
@@ -310,7 +306,6 @@ html, body
 {
     bottom: 50px;
 }
-
 .banner-roteiros .lupa 
 {
     background: #FAD300;
@@ -327,8 +322,203 @@ html, body
     width: 100%;
     z-index: 2;
 }
-
 .banner-roteiros a:hover .lupa 
+{
+    bottom: 0;
+}
+
+
+/*Pontos Turisticos*/
+.ponto-turisticos-container
+{    
+    height: 700px;    
+    width: 100%;
+    margin: 0px auto;
+    padding: 0;
+}
+.wrap-ponto-turisticos
+{
+    width: 1170px;
+    height: 100%;
+    margin: 0 auto;
+}
+.cabecalho-ponto-turisticos
+{
+    height: 140px;
+    margin: 0px auto;
+    position: relative;
+}
+.cabecalho-ponto-turisticos-texto
+{
+    height: 140px;      
+    width: 1000px;
+    float: left;  
+}
+.cabecalho-ponto-turisticos-titulo
+{
+    height: 80px;
+    margin: 0px auto;    
+    color: #2C2E38; 
+    position: relative;   
+}
+.cabecalho-ponto-turisticos-titulo h2
+{    
+    margin: 0px;
+    padding: 0;
+    position: absolute;
+    bottom: 0;
+}
+.cabecalho-ponto-turisticos-subtitulo
+{
+
+    height: 60px;
+    margin: 0px auto;    
+    color: #2C2E38;
+    position: relative; 
+}
+.cabecalho-ponto-turisticos-subtitulo h3
+{
+    font: 14px sans-serif;
+    margin: 0px;
+    padding: 0;
+    position: absolute;
+    top: 40%;
+    bottom: 60%;
+}
+.cabecalho-ponto-turisticos-mais
+{
+    height: 140px;
+    margin: 0px auto;
+    width: 170px;
+    float: right;
+    position: relative;
+}
+.cabecalho-ponto-turisticos-mais btt
+{
+    position: absolute;
+    top: 60%;
+    bottom: 40%;
+    height: 40px;
+    width: 130px;
+}
+.banner-ponto-turisticos-up
+{
+    height: 180px;    
+    margin: 0px auto;
+    text-align: center;    
+    padding: 0;
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+.banner-ponto-turisticos-up a
+{
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;    
+}
+.banners-ponto-turisticos-left
+{
+    height: 180px;
+    width: 270px;
+    background-color: teal;    
+    margin-right: 15px; 
+    float:left;
+    position: relative;   
+}
+.banners-ponto-turisticos-meio
+{
+    height: 180px;
+    width: 270px;
+    background-color: teal;    
+    margin-left: 15px;
+    margin-right: 15px; 
+    float:left;
+    position: relative;   
+}
+.banners-ponto-turisticos-right
+{
+    height: 180px;
+    width: 270px;
+    background-color: teal;    
+    margin-left: 15px;    
+    float:left;
+    position: relative;
+}
+.banner-ponto-turisticos-down
+{
+    height: 180px;    
+    margin: 0px auto;
+    text-align: center;    
+    padding: 0;    
+    overflow: hidden;
+}
+.banner-ponto-turisticos-down a
+{
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+}
+.banner-ponto-turisticos-up a img
+{
+    transition: bottom .4s;
+    bottom: 0;
+    position: relative;
+}
+.banner-ponto-turisticos-up a:hover img 
+{
+    bottom: 50px;
+}
+.banner-ponto-turisticos-up a .lupa 
+{
+    background: #FAD300;
+    bottom: -50px;
+    box-sizing: border-box;
+    color: #fff;
+    font-size: 15px;
+    height: 50px;
+    left: 0;
+    line-height: 50px;
+    transition: bottom .4s;
+    padding: 0 15px;
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+}
+.banner-ponto-turisticos-up a:hover .lupa 
+{
+    bottom: 0;
+}
+.banner-ponto-turisticos-down a img
+{
+    transition: bottom .4s;
+    bottom: 0;
+    position: relative;
+}
+.banner-ponto-turisticos-down a:hover img 
+{
+    bottom: 50px;
+}
+.banner-ponto-turisticos-down a .lupa 
+{
+    background: #FAD300;
+    bottom: -50px;
+    box-sizing: border-box;
+    color: #fff;
+    font-size: 15px;
+    height: 50px;
+    left: 0;
+    line-height: 50px;
+    transition: bottom .4s;
+    padding: 0 15px;
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+}
+.banner-ponto-turisticos-down a:hover .lupa 
 {
     bottom: 0;
 }
@@ -345,22 +535,6 @@ html, body
 
 
 
-
-
-
-
-
-
-
-
-.ponto-turisticos-container
-{    
-    height: 700px;    
-    width: 100%;   
-    max-width: 1920px;
-    margin: 0px auto;
-    padding: 0;
-}
 
 .onde-comer-container
 {    

@@ -1,4 +1,8 @@
 Duvidas
 
 1-div com float centralizado
+R: utilizar no div pai text-align:center
+e no filho usar display:inline-block
+pq?
+
 2-ajusta automaticamente a possição top com base no tamanho da tela
